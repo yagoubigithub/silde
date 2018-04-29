@@ -1,0 +1,33 @@
+definiion web2.0 
+Pour définir web2.0, il faut définir l'ancien version  web1.0
+web1.0 c'est le web static c'est just pour lire les donnee text  dans le web sans modifier ces donnee .si il ya une bonne connexion tu peut lire des image. mais le web 2.0 applle aussi le web social désigne l'ensemble des tecnologie qui permet a l'utilisateur lire est ecrire dans le web si ta dire  l'utilisateur  peut avoir sa propre base de données dans les site danc il Permet à tout le monde de participer et d'interagir. 
+a partir de ca en peu dire que le web 2.0 ces le passage  de web static vers le web dynamic
+
+Les technologies Web 2.0
+
+AJAX :la technologie qui ajoute a  navigateur web  il combin javascript pour modifie le contenu de navigateur et XMLHttpRequest pour envoi les donnee vers le serveur
+
+Application Web:est une application manipulable grâce à un navigateur web.
+Dans la technologie client-serveur le navigateur Web envoie au serveur des requêtes Le serveur répond et envoie les pages au navigateur Web. Le navigateur affiche les pages à l'utilisateur.
+Les applications Web utilisent cette technique pour affiche leur interface graphique	
+
+blogs et resaux sociaux
+des application web  permettant de se constituer un réseau d’amis ou de connaissances  et fournissant à leurs membres des outils et interfaces d’interactions, de présentation et de communication.
+
+wiki
+des application web qui permet a l'utilisateur de gere le contenu comme wikipidia ou stackoverflow
+
+
+Les caractéristique du web3.0
+
+individualisé :offre une contenu spécial a un utilisateur a partir de donnee de cette utilistateur
+region ,la langue,Les trucs qui interagissaient avec des choose comme ca
+
+Intelligent:la capacité de comprendre les donnees et d'être plus facilement utilisables et interprétables automatiquement, par des agents logiciels
+
+omniprésent: accessible dans tout le monde
+
+décentralisé (peer to peer):un utilistaeur  peut transférer les donnée directement a un autre utilisateur sans utiliser un serveur
+danc l'utilisateur jouer le rôle de client et de serveur
+
+
